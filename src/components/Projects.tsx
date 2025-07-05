@@ -64,8 +64,8 @@ const projectsData: Project[] = [
     description: "A culinary app for discovering recipes based on available ingredients and dietary preferences.",
     image: "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=1600",
     tags: ["React", "API", "Tailwind CSS"],
-    demoLink: "#",
-    codeLink: "#"
+    demoLink: "https://jazzy-pasca-c2040c.netlify.app/",
+    codeLink: "https://github.com/prisha2012/recipe-finder"
   }
 ];
 

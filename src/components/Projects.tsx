@@ -46,8 +46,8 @@ const projectsData: Project[] = [
     description: "An interactive weather application displaying forecasts and conditions for locations worldwide.",
     image: "https://images.pexels.com/photos/2448749/pexels-photo-2448749.jpeg?auto=compress&cs=tinysrgb&w=1600",
     tags: ["React", "API", "CSS"],
-    demoLink: "#",
-    codeLink: "#"
+    demoLink: "https://ornate-dusk-6e1f74.netlify.app/",
+    codeLink: "https://github.com/prisha2012/WeatherDashboard"
   },
   {
     id: 5,
@@ -55,8 +55,8 @@ const projectsData: Project[] = [
     description: "A community platform with user profiles, posts, comments, and real-time notifications.",
     image: "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1600",
     tags: ["React", "Node.js", "Socket.io", "MongoDB"],
-    demoLink: "#",
-    codeLink: "#"
+    demoLink: "https://social-media-app-pfm2.vercel.app/",
+    codeLink: "https://github.com/prisha2012/Social-Media-app"
   },
   {
     id: 6,

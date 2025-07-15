@@ -28,8 +28,8 @@ const projectsData: Project[] = [
     description: "A productivity application for managing tasks, projects, and deadlines with a clean interface.",
     image: "https://images.pexels.com/photos/6956903/pexels-photo-6956903.jpeg?auto=compress&cs=tinysrgb&w=1600",
     tags: ["React", "Firebase", "Tailwind CSS"],
-    demoLink: "#",
-    codeLink: "#"
+    demoLink: "https://task-manager-efb5b.web.app/",
+    codeLink: "https://github.com/prisha2012/Task-Manager"
   },
   {
     id: 3,
